@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Alcolea de Calatrava",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-05T17:07:24.176Z",
+      "notes": "gcx",
+      "position": {
+        "lat": "38.97872821957153",
+        "lng": "-4.130859375000001"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Geria",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T06:29:23.352Z",
+      "notes": "sdfsdfd",
+      "position": {
+        "lat": "41.5593251021333",
+        "lng": "-4.899902343750001"
+      },
+      "id": 73930387
+    }
+  ]
+}
